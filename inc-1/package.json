@@ -1,0 +1,25 @@
+{
+  "name": "hellojs-v4-extras-inc1",
+  "version": "1.0.0",
+  "description": "Playing around",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "yuriploc",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.14.12",
+    "prettier": "^1.10.2"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  }
+}
