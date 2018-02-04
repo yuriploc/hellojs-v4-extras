@@ -1,12 +1,13 @@
-# Hellojs v4 - Extra challenge
+# Hellojs v4 - Extra challenges
 
 _For educational purposes_
 
 ## Part 1
 
 - Create a node server with express + axios
-- Create at least one route '/my-kittens' that gets cat images from "The Cat API" (http://thecatapi.com/docs.html)
-- When client access the route, see a cat img
+- Create at least one route:
+    - '/my-kittens' that gets cat images from "The Cat API" (http://thecatapi.com/docs.html)
+- When client access the route through the browser, see a cat img
 
 ### Increment 1
 
