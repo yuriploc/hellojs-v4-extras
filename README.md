@@ -20,4 +20,8 @@ A form where the user can choose img type (png/jpg/gif)
 
 ## How to run
 
-Every project has a `npm run dev` script waiting to be used
+Every project has a `dev` script waiting to be used:
+
+```shell
+npm run dev
+```
