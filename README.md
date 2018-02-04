@@ -16,3 +16,8 @@ The server should save (sqlite3) how many requisitions it received and name or i
 ### Increment 2
 
 A form where the user can choose img type (png/jpg/gif)
+
+
+## How to run
+
+Every project has a `npm run dev` script waiting to be used
